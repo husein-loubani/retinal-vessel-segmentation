@@ -41,12 +41,9 @@ retinal-vessel-segmentation/
 ├── demo/                    # Sample outputs and video
 │   ├── Demo_Video.mp4
 │   └── sample_output/
-├── report/                  # Final report slides
-│   └── Image_Processing_Final_Project_HL_AE.pptx
-├── images/                  # Screenshots for README
-│   └── pipeline_example.png
 ├── README.md
 └── LICENSE
+
 ```
 
 ## 📦 Requirements
@@ -77,16 +74,14 @@ The pipeline has been tested on standard retinal datasets with consistent visual
 A visual demonstration of the full pipeline is provided in:
 
 - `demo/Demo_Video.mp4`
-- Screenshots in `images/pipeline_example.png`
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 👥 Contributors
+## 👥 Contributor
 
 - **Hussein Loubani** — Université de Technologie de Belfort-Montbéliard (UTBM)
-- **AE Collaborator** — Image Processing Project Partner
 
 ---
 
