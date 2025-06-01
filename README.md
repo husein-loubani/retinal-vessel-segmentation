@@ -33,16 +33,13 @@ The segmentation pipeline consists of the following stages:
 
 ```
 retinal-vessel-segmentation/
-├── src/                     # MATLAB source code
-│   ├── preprocessing.m
-│   ├── histogram_equalization.m
-│   ├── thresholding.m
-│   └── segmentation.m
-├── demo/                    # Sample outputs and video
-│   ├── Demo_Video.mp4
-│   └── sample_output/
+├── Colorize_Image.m
+├── Demo_Video.mp4
+├── LICENSE
 ├── README.md
-└── LICENSE
+├── Test Images/
+├── Threshold_Level.m
+└── main.m
 
 ```
 
@@ -78,10 +75,6 @@ A visual demonstration of the full pipeline is provided in:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## 👥 Contributor
-
-- **Hussein Loubani** — Université de Technologie de Belfort-Montbéliard (UTBM)
 
 ---
 
