@@ -72,6 +72,11 @@ A visual demonstration of the full pipeline is provided in:
 
 - `demo/Demo_Video.mp4`
 
+## 📄 Presentation Slides
+
+You can find the full presentation slides explaining the methodology and results of this [project here](./https://docs.google.com/presentation/d/1E8CL75ssuwOd9M7CfkOn35FmeHIJNmIm/edit?usp=sharing&ouid=108743599211217678452&rtpof=true&sd=true).
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
